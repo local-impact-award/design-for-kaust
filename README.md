@@ -1,2 +1,2 @@
-# design-for-kaust
+# Design for KAUST
 Design for KAUST competition
