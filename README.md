@@ -1,2 +1,6 @@
 # Design for KAUST
-Design for KAUST competition
+
+The event starts 14th of March.
+
+Announcement and registration is coming soon.
+
