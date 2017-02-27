@@ -2,7 +2,7 @@
 
 The workshop starts 14th of March.
 
-[Please register: https://goo.gl/ufQj5J](https://goo.gl/ufQj5J)
+[Please register here: https://goo.gl/ufQj5J](https://goo.gl/ufQj5J)
 
 ## Make a Difference
 
