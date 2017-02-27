@@ -1,5 +1,3 @@
-# Design for KAUST
-
 ## Registration
 
 The workshop starts 14th of March.
