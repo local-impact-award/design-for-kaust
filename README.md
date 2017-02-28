@@ -4,11 +4,11 @@ The workshop starts 14th of March.
 
 [Please register here: https://goo.gl/ufQj5J](https://goo.gl/ufQj5J)
 
-## Make a Difference
+## Designed at KAUST, built at KAUST, used at KAUST!
 
 The Maker Space self-directed group (SDG) is proud to announce the first "Design for KAUST" workshop organized in collaboration with Residential Maintenance Services. We are looking for solutions that use technology (micro-controllers, Internet of Things, sensors, etc.) to improve our lives. We are especially interested in solutions that save energy for residential and facility buildings.
 
-In this workshop series, we will use rapid prototyping methodologies and implement some of the ideas! At the end of the workshop series, we will award the best three projects with the "Local Impact Award" and a total of 10,000 SAR sponsored by Residential Maintenance Services, as well as the opportunity to roll out the prototypes in the field. Designed at KAUST, built at KAUST, used at KAUST!
+In this workshop series, we will use rapid prototyping methodologies and implement some of the ideas! At the end of the workshop series, we will award the best three projects with the "Local Impact Award" and a total of 10,000 SAR sponsored by Residential Maintenance Services, as well as the opportunity to roll out the prototypes in the field. 
 
 We invite all community members to participate; children must be accompanied by a responsible adult.
 
@@ -27,8 +27,8 @@ April 11 to May 30: Second round of the workshop series
 June, 2017: Final event and announcement of winners.
 
 ## Location
-
-Maker Space, Innovation Cluster (building 24)
+All workshop events will be held at the Maker Space, Innovation Cluster (building 24):
+<img src="\images\map.png">
 
 ## Acknowledgement
 
