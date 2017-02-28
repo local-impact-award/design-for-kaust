@@ -28,7 +28,7 @@ June, 2017: Final event and announcement of winners.
 
 ## Location
 All workshop events will be held at the Maker Space, Innovation Cluster (building 24):
-<img src="\images\map.png">
+<img src="map01.png">
 
 ## Acknowledgement
 
